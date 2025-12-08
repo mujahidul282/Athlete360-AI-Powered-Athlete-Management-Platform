@@ -1,0 +1,8 @@
+{
+  "name": "Athlete360",
+  "description": "AI-powered Athlete Management Platform for the Indian sports ecosystem featuring performance tracking, injury prediction, and diet analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
