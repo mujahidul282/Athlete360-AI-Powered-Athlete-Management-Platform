@@ -1,5 +1,5 @@
 /* src/index.css */
-
+@import "tailwindcss";
 /* REQUIRED: Tailwind directives that Vite/PostCSS will expand */
 @tailwind base;
 @tailwind components;
